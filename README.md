@@ -10,7 +10,7 @@ Hey there! 👋
 
 这里有个快速提醒：
 
-- **CMake 相关内容**？就在 **CMake** 文件夹里。
+- **CMakeLists 相关内容**？就在 **CMakeLists** 文件夹里。
 - **Makefile 模板**？请前往 **Makefile** 文件夹。
 
 每个文件夹都有你需要的内容，赶紧跳进去，尽情享受吧！

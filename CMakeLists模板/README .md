@@ -1,6 +1,6 @@
 # CMakeLists.txt Template
 
-Hey there! 👋
+# Hey there! 👋
 
 欢迎来到我的 **CMakeLists.txt** 模板仓库！🎉 这个模板非常适合你快速启动一个 C++ 项目，省去配置繁琐的时间。你可以根据需求选择构建可执行文件、静态库或共享库，而且它已经为不同的操作系统做了基本的适配。
 
